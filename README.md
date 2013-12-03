@@ -1,4 +1,4 @@
-slb-addons
+Simple Lightbox: Add-ons
 ==========
 
-General Issues-only repo for Simple Lightbox Add-ons
+Issues-only repo
