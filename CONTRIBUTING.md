@@ -23,4 +23,4 @@ Because of the vast number and variety of sites WordPress powers, your reports a
 [slb]: http://archetyped.com/tools/simple-lightbox/ "Simple Lightbox"
 [slb-wp]: http://wordpress.org/plugins/simple-lightbox
 [gh]: https://github.com/signup/free "GitHub Signup"
-[report-issue]: ../wiki/Reporting-Issues "Report add-on issue"
+[report-issue]: https://github.com/archetyped/slb-addons/wiki/Reporting-Issues "Report add-on issue"
