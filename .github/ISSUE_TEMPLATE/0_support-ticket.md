@@ -16,4 +16,4 @@ assignees: ''
 * URL of Page exhibiting problem: 
 * Browser(s) exhibiting problem (Firefox, Chrome, etc.): 
 * Version of SLB Installed: 
-* Other plugins installed:
+* Other plugins installed: 
